@@ -2,8 +2,5 @@ language: java
 jdk:
   - openjdk7
 
-before_install:
-  - cd ./500px-java-core
-
 after_access:
   - mvn javadoc:fix
