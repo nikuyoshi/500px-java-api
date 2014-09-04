@@ -6,7 +6,7 @@
  <groupId>org.fhpx</groupId>
  <artifactId>500px-java-core</artifactId>
  <version>0.9.0-SNAPSHOT</version>
- <packaging>jar</packaging>
+ <packaging>pom</packaging>
  <name>500px-java-core</name>
  <description>500px API wrapper for Java</description>
  <url>https://github.com/nikuyoshi/500px-java-api</url>
