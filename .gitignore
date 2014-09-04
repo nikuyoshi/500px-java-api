@@ -1,6 +1,7 @@
 .classpath
 .project
 .class
+.swp
 .settings/
 bin/
 target/
