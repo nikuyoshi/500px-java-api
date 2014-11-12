@@ -1,10 +1,9 @@
-package fhpx.oauth;
+package com.nikuyoshi.oauth;
 
 /**
  * <p>Oauth class.</p>
  *
  * @author nikuyoshi
- * @version $Id: $
  */
 public class Oauth {
 

@@ -1,4 +1,4 @@
-package fhpx.photos;
+package com.nikuyoshi.photos;
 
 /**
  * <p>Photos class.</p>

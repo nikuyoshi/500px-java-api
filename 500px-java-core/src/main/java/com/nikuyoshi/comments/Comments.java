@@ -1,4 +1,4 @@
-package fhpx.comments;
+package com.nikuyoshi.comments;
 
 /**
  * <p>Comments class.</p>

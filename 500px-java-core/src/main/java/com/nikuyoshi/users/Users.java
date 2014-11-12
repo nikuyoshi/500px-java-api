@@ -1,4 +1,4 @@
-package fhpx.users;
+package com.nikuyoshi.users;
 
 /**
  * <p>Users class.</p>

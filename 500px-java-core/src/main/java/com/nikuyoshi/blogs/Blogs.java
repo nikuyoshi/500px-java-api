@@ -1,4 +1,4 @@
-package fhpx.blogs;
+package com.nikuyoshi.blogs;
 
 
 /**

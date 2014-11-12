@@ -1,4 +1,4 @@
-package fhpx.collections;
+package com.nikuyoshi.collections;
 
 
 /**

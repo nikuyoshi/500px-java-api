@@ -1,4 +1,4 @@
-package fhpx.upload;
+package com.nikuyoshi.upload;
 
 /**
  * <p>Upload class.</p>
